@@ -1,3 +1,8 @@
+
+---
+sort: 1
+---
+
 # LDES Server
 
 The Linked Data Event Stream (LDES) server is a configurable component that can be used to ingest, store, transform
