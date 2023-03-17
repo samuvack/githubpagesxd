@@ -1,6 +1,3 @@
----
-sort: 1
----
 ## Set-up of the LDES Server
 
 The current implementation consists of 6 modules:
