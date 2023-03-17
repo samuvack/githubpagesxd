@@ -12,4 +12,4 @@ sort: 1
   
 
 # LDES Server Manual
-*A quick and well guide is at: https://xdxxxdx.github.io/GetStarted_VSDS/*
+*A quick and well guide is at: [https://xdxxxdx.github.io/GetStarted_VSDS/](https://xdxxxdx.github.io/GetStarted_VSDS/)*
