@@ -1,7 +1,7 @@
 ---
 sort: 1
 ---
-# Configuration file for (Linked Data Event Streams Server for Java)[https://github.com/Informatievlaanderen/VSDS-LDESServer4J]
+# Configuration file for [Linked Data Event Streams Server for Jav](https://github.com/Informatievlaanderen/VSDS-LDESServer4J)
 ## Set-up of the LDES Server
 
 The current implementation consists of 6 modules:
