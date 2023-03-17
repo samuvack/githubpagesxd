@@ -7,7 +7,7 @@ sort: 1
 
 <!-- {% include list.liquid %} -->
 
-- [Manual](https://xdxxxdx.github.io/githubpagesxd/Server%20Manual/configuration.html)
+- [LDES Server Manual](https://xdxxxdx.github.io/githubpagesxd/ConfigurationsRun/)
 - [Knowledge Repository: Fragments](https://xdxxxdx.github.io/githubpagesxd/Fragments/)   
   
 
