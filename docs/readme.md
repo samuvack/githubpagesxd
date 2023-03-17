@@ -11,5 +11,5 @@ sort: 1
 - [Knowledge Repository: Fragments](https://xdxxxdx.github.io/githubpagesxd/Fragments/)   
   
 
-# Getting Start
+# Getting Started
 *A quick and well guide is at: [https://xdxxxdx.github.io/GetStarted_VSDS/](https://xdxxxdx.github.io/GetStarted_VSDS/)*
