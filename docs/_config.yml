@@ -2,7 +2,7 @@ title: Manual for LDES Server
 lang: en
 description: a catchy description for your project
 
-theme: rundocs/jekyll-rtd-theme
+remote_theme: ./rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
